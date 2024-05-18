@@ -1,0 +1,62 @@
+.body {
+  background-color: rgb(46, 46, 120);
+  padding: 50px;
+}
+.la {
+  background-color: red;
+  border-radius: 30px;
+  width: 200px;
+  padding: 20px;
+  text-align: center;
+}
+
+.ota {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ota2 {
+  justify-content: space-between;
+  display: flex;
+}
+.mi {
+  width: 400px;
+  margin: 60px;
+}
+.mi1 {
+  width: 400px;
+  margin: 60px;
+}
+.fi {
+  border-radius: 30px;
+  background-color: black;
+  color: aliceblue;
+  width: 264px;
+  height: 118px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ota3 {
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  border-radius: 40px;
+  background-color: red;
+  width: 500px;
+  padding: 40px;
+}
+.lam {
+  border-radius: 30px;
+  padding: 40px;
+  background-color: rgb(255, 225, 0);
+}
+
+.ota4 {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
